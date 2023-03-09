@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\test.api\test.api.models\bin\Debug\net7.0\test.api.models.deps.json
+C:\Users\acer\source\repos\test.api\test.api.models\bin\Debug\net7.0\test.api.models.dll
+C:\Users\acer\source\repos\test.api\test.api.models\bin\Debug\net7.0\test.api.models.pdb
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\test.api.models.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\test.api.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\test.api.models.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\test.api.models.AssemblyInfo.cs
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\test.api.models.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\test.api.models.dll
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\refint\test.api.models.dll
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\test.api.models.pdb
+C:\Users\acer\source\repos\test.api\test.api.models\obj\Debug\net7.0\ref\test.api.models.dll
